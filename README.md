@@ -40,7 +40,11 @@ This project analyzes bike sales data to identify customer purchasing behavior a
 ---
 
 ## 📸 Screenshots
-
+### 📊 Dashboard
+https://github.com/AnsilaMolKP/bike-sales-excel-dashboard/blob/main/Screenshot%202026-03-27%20210437.png
+### 📈 Pivot Table Analysis
+https://github.com/AnsilaMolKP/bike-sales-excel-dashboard/blob/main/Screenshot%202026-03-27%20210506.png
+https://github.com/AnsilaMolKP/bike-sales-excel-dashboard/blob/main/Screenshot%202026-03-27%20210520.png
 
 ---
 
